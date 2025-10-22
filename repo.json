@@ -3,6 +3,6 @@
     "description": "Sinetech.tr Özel Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/lodistream/repos/blob/main/.github/scripts/last_plugins.json"
+      "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/.github/scripts/last_plugins.json"
     ]
   }
