@@ -1,6 +1,6 @@
 {
     "name": "Deneme_repo",
-    "description": "Sinetech.tr Özel Cloudstream Deposu",
+    "description": "Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/.github/scripts/last_plugins.json"
