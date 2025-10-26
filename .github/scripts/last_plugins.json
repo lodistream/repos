@@ -7,8 +7,7 @@
     "status": 1,
     "language": "de",
     "authors": [
-      "GitLatte",
-      "Hexated"
+      "lodistream"
     ],
     "tvTypes": [
       "AnimeMovie",
@@ -16,10 +15,10 @@
       "OVA"
     ],
     "version": 4,
-    "internalName": "Aniworld MC - Latte",
-    "description": "Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Aniworld MC - Latte.cs3",
-    "name": "Aniworld MC - Latte"
+    "internalName": "Aniworld MC - lodistream",
+    "description": "açıklama kısmı",
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Aniworld MC - LoDi.cs3",
+    "name": "lodistream"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/master/logo.png",
@@ -29,17 +28,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq"
+      "lodistream",
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 4,
-    "internalName": "DDizi - Latte",
+    "internalName": "Ddizi-lodi",
     "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - Latte.cs3",
-    "name": "DDizi - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - LoDi.cs3",
+    "name": "lodistream"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/master/logo.png",
@@ -49,18 +47,17 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq"
+      "lodistream"
     ],
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
     "version": 5,
-    "internalName": "DiziFun - Latte",
+    "internalName": "DiziFun- lodi ",
     "description": "Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun - Latte.cs3",
-    "name": "DiziFun - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun - LoDi.cs3",
+    "name": "DiziFun - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png",
@@ -70,16 +67,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte"
+      "lodistream"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
-    "internalName": "GoFilmIzle - Latte",
+    "internalName": "GoFilmIzle - lodi",
     "description": "GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
-    "name": "GoFilmIzle - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - LoDi.cs3",
+    "name": "GoFilmIzle - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/master/logo.png",
@@ -89,18 +86,17 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq"
+      "lodistream"
     ],
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
     "version": 3,
-    "internalName": "KICK Türkiye - Latte",
+    "internalName": "KICK Türkiye ",
     "description": "Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KICK Türkiye - Latte.cs3",
-    "name": "KICK Türkiye - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KICK Türkiye - LoDi.cs3",
+    "name": "KICK Türkiye - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/master/logo.png",
@@ -110,19 +106,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "GitLatte",
-      "patr0nq",
-      "nikyokki"
+      "lodistream"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
-    "internalName": "myway TV - Latte",
+    "internalName": "myway TV ",
     "description": "Sinetech.tr Forum myway canlı tv listesi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - Latte.cs3",
-    "name": "myway TV - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - LoDi.cs3",
+    "name": "myway TV - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
@@ -132,17 +125,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq"
+      "lodistream"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
-    "internalName": "Müzik TV ve Radyo - Latte",
+    "internalName": "Müzik TV ve Radyo - LoDi",
     "description": "Müzik Kanallarına özel canlı tv eklentisidir.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Müzik TV ve Radyo - Latte.cs3",
-    "name": "Müzik TV ve Radyo - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Müzik TV ve Radyo - LoDi.cs3",
+    "name": "Müzik TV ve Radyo - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
@@ -152,18 +144,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq",
-      "keyiflerolsun"
+      "lodistream"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 6,
-    "internalName": "powerboard Dizi - Latte",
+    "internalName": "powerboard Dizi - LoDi",
     "description": "powerboard`un yabancı dizi arşivi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Dizi - Latte.cs3",
-    "name": "powerboard Dizi - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Dizi - LoDi.cs3",
+    "name": "powerboard Dizi - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
@@ -173,18 +163,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq",
-      "keyiflerolsun"
+      "lodistream"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 5,
-    "internalName": "powerboard Sinema - Latte",
+    "internalName": "powerboard Sinema - LoDi",
     "description": "powerboard`un sinema arşivi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
-    "name": "powerboard Sinema - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - LoDi.cs3",
+    "name": "powerboard Sinema - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
@@ -194,18 +182,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq",
-      "keyiflerolsun"
+      "lodistream",
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
-    "internalName": "Tv Bahçesi - Latte",
+    "internalName": "Tv Bahçesi - LoDi",
     "description": "TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Tv Bahçesi - Latte.cs3",
-    "name": "Tv Bahçesi - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Tv Bahçesi - LoDi.cs3",
+    "name": "Tv Bahçesi - LoDi"
   },
   {
     "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=2.1.8",
@@ -215,8 +201,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte",
-      "patr0nq"
+      "lodistream",
     ],
     "tvTypes": [
       "Movie",
@@ -225,10 +210,10 @@
       "Anime"
     ],
     "version": 3,
-    "internalName": "WebDramaTurkey - Latte",
+    "internalName": "WebDramaTurkey - LoDi",
     "description": "Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
-    "name": "WebDramaTurkey - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - LoDi.cs3",
+    "name": "WebDramaTurkey - LoDi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
@@ -238,15 +223,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "GitLatte"
+      "lodistream"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 1,
-    "internalName": "YouTube Özel - Latte",
+    "internalName": "YouTube Özel - LoDi",
     "description": "Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - Latte.cs3",
-    "name": "YouTube Özel - Latte"
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - LoDi.cs3",
+    "name": "YouTube Özel - LoDi"
   }
 ]
