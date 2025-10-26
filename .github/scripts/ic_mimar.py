@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-☁️ CloudStream Latte Depo Yöneticisi
-Özgün eklenti yönetim sistemi - Sinetech için özel olarak geliştirilmiştir
+☁️ CloudStream
 """
 
 import json
@@ -21,10 +20,10 @@ CONFIG = {
         "changelog": "CHANGELOG.md"
     },
     "repo": {
-        "name": "Latte - Sinetech",
-        "forum_url": "https://forum.sinetech.tr/konu/powerboard-film-ve-dizi-arsivine-ozel-cloudstream-deposu.3672/",
-        "github_url": "https://github.com/GitLatte/latte-extensions",
-        "support_keywords": ["Latte", "sinetech"]
+        "name": "lodistream",
+        "forum_url": "https://lodistream.github.io",
+        "github_url": "https://lodistream.github.io",
+        "support_keywords": ["lodistream"]
     },
     "periods": {
         "recent_days": 3,
@@ -64,70 +63,10 @@ VERSION_COLORS = {
 # 👥 Katkıda Bulunanlar
 CONTRIBUTORS = [
     {
-        "name": "GitLatte", 
-        "url": "https://github.com/GitLatte",
-        "role": "Depo Geliştiricisi",
+        "name": "lodistream", 
+        "url": "https://github.com/lodistream",
+        "role": "Geliştirici",
         "emoji": "☕"
-    },
-    {
-        "name": "patr0nq", 
-        "url": "https://github.com/patr0nq",
-        "role": "Güncelleme ve Geliştirme Ortağı", 
-        "emoji": "🔧"
-    },
-    {
-        "name": "keyiflerolsun",
-        "url": "https://github.com/keyiflerolsun", 
-        "role": "Eklenti Kodları İlham Kaynağı",
-        "emoji": "💡"
-    },
-    {
-        "name": "feroxx",
-        "url": "https://github.com/feroxx",
-        "role": "YouTube Video Altyapısı Geliştiricisi",
-        "emoji": "🎬"
-    },
-    {
-        "name": "doGior",
-        "url": "https://github.com/DoGior", 
-        "role": "Eklenti Kodları İlham Kaynağı",
-        "emoji": "👨‍💻"
-    },
-    {
-        "name": "powerboard",
-        "url": "https://forum.sinetech.tr/uye/powerboard.3822/",
-        "role": "PowerDizi-PowerSinema Liste Sahibi",
-        "emoji": "📺"
-    },
-    {
-        "name": "tıngırmıngır", 
-        "url": "https://forum.sinetech.tr/uye/tingirmingir.137/",
-        "role": "TMDB ve Tv Bahçesi İlham Kaynağı",
-        "emoji": "🌿"
-    },
-    {
-        "name": "mooncrown",
-        "url": "https://forum.sinetech.tr/uye/mooncrown.10472/",
-        "role": "\"İzlemeye Devam Et\" Özelliği Fikri",
-        "emoji": "👑"
-    },
-    {
-        "name": "nedirne",
-        "url": "https://forum.sinetech.tr/uye/nedirne.13409/", 
-        "role": "TMDB Entegrasyonu Fikri",
-        "emoji": "🎯"
-    },
-    {
-        "name": "Memetcandal",
-        "url": "https://forum.sinetech.tr/uye/memetcandal.306/",
-        "role": "Aniworld Eklenti Adaptasyonu", 
-        "emoji": "🌍"
-    },
-    {
-        "name": "fsozkan", 
-        "url": "https://forum.sinetech.tr/uye/fsozkan.14502/",
-        "role": "KickTR Eklenti Çıkış Sebebi",
-        "emoji": "⚽"
     }
 ]
 
