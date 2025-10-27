@@ -10,7 +10,7 @@
     "authors": ["lodistream"],
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "AnimeSpecial"],
     "version": 5,
-    "internalName": "Aniworld_MC_LoDi_Stream",
+    "internalName": "JETFILMIZLE_LoDi_Stream",
     "description": "Aniworld - Almanca Anime Streaming Platformu | 1000+ anime içeriği | HD kalite | Altyazı desteği",
     "longDescription": "Almanca anime izleme deneyimi sunan kapsamlı bir eklenti. Geniş anime kütüphanesi, farklı video kaliteleri ve kullanıcı dostu arayüz.",
     "url": "https://github.com/lodistream/repos/raw/ad760644bcb086ba066677a28c585889cb2a6a15/JetFilmizle.cs3",
