@@ -35,7 +35,7 @@
     "internalName": "DDizi_LoDi_Stream",
     "description": "DDizi - Türkçe Dizi Platformu | Yerli ve yabancı diziler | Güncel bölümler | HD kalite",
     "longDescription": "DDizi üzerinden yerli ve yabancı dizileri izleyebileceğiniz eklenti. Güncel bölümler, yüksek kalite ve kullanıcı dostu arayüz.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi_LoDi.cs3",
+    "url": "https://github.com/lodistream/repos/raw/a134b5a75ae69b4dfd7e5b7889387e2706638d25/hdfilmizle.cs3",
     "name": "DDizi - LoDi Stream",
     "category": "Video",
     "type": "Streaming",
