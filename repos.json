@@ -1,0 +1,15 @@
+{
+  "iconUrl": "https://www.hdfilmizle.to/images/logo.png",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/lodistream/repos",
+  "fileSize": 12500,
+  "status": 1,
+  "language": "tr",
+  "authors": ["GitLatte"],
+  "tvTypes": ["TvSeries", "Movie"],
+  "version": 1,
+  "internalName": "HDFilmizle",
+  "description": "HDFilmizle.to - Türkçe dublaj ve altyazılı film ve dizi izleme eklentisi",
+  "url": "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/hdfilmizle.csx",
+  "name": "HDFilmizle"
+}
