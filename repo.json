@@ -3,6 +3,6 @@
     "description": "Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://cdn.jsdelivr.net/gh/lodistream/repos/HDFilmizle.csx"
+      "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/.github/scripts/last_plugins.json"
     ]
   }
