@@ -3,6 +3,6 @@
     "description": "Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/builds/HDFilmizle.csx"
+      "https://github.com/lodistream/repos/raw/refs/heads/main/datas/JetFilmizle.cs3"
     ]
   }
