@@ -5,11 +5,11 @@
   "fileSize": 12500,
   "status": 1,
   "language": "tr",
-  "authors": ["GitLatte"],
+  "authors": ["lodistream"],
   "tvTypes": ["TvSeries", "Movie"],
   "version": 1,
   "internalName": "HDFilmizle",
   "description": "HDFilmizle.to - Türkçe dublaj ve altyazılı film ve dizi izleme eklentisi",
-  "url": "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/hdfilmizle.csx",
+  "url": "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/builds/hdfilmizle.csx",
   "name": "HDFilmizle"
 }
