@@ -3,6 +3,6 @@
     "description": "Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/lodistream/repos/raw/refs/heads/main/datas/JetFilmizle.cs3"
+      "https://github.com/lodistream/repos/blob/main/.github/scripts/last_plugins.json"
     ]
   }
