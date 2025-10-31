@@ -3,6 +3,6 @@
     "description": "Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json"
+      "https://raw.githubusercontent.com/lodistream/repos/refs/heads/main/.github/scripts/last_plugins.json"
     ]
   }
